@@ -1,0 +1,1 @@
+## This is a WordPress example plugin of [this tutorial](https://stepasidelil.hashnode.dev/wordpress-plugin-development).
